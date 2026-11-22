@@ -3,8 +3,6 @@
 **A what-if simulator for the Worcester Dining Commons at UMass Amherst** (HackUMass 2026).
 It simulates dinner night after night on the real menu, student by student, so a kitchen manager can test a decision (smaller batches, an extra server, a new dish, a busier night) before trying it on real students, and get a cook sheet with honest ranges and a "better / worse / can't tell" verdict.
 
-**Live:** https://dineamics.compare
-
 ## What's inside
 - **Simulation:** watch a simulated night in a 3D hall, try a change, compare it with tonight's plan.
 - **What-If Lab:** tune batches, staffing, crowd and menu (or ask in plain English); **Optimize** searches kitchen plans; **Plausible worlds** tests a plan when our guesses are off.
